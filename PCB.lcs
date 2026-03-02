@@ -1,0 +1,44 @@
+# Light Controller Settings Export
+# Export Date: 2025-10-13 11:50:09
+# Device Serial: A5065FUV
+
+[Device]
+Key=A5065FUV_R1
+SerialNumber=A5065FUV
+LastUpdated=2025-10-13 11:50:09
+Intensities=0,0,0,0,0,0,0,0
+CheckboxStates=False,False,False,False,False,False,False,False
+Remark=1
+
+[Device]
+Key=A5065FUV_R2
+SerialNumber=A5065FUV
+LastUpdated=2025-10-13 11:50:09
+Intensities=0,0,0,0,0,0,0,0
+CheckboxStates=False,False,False,False,False,False,False,False
+Remark=2
+
+[Device]
+Key=A5065FUV_R3
+SerialNumber=A5065FUV
+LastUpdated=2025-10-13 11:50:09
+Intensities=0,0,0,0,0,0,0,0
+CheckboxStates=False,False,False,False,False,False,False,False
+Remark=3
+
+[Device]
+Key=A5065FUV_R4
+SerialNumber=A5065FUV
+LastUpdated=2025-10-13 11:50:09
+Intensities=0,0,0,0,0,0,0,0
+CheckboxStates=False,False,False,False,False,False,False,False
+Remark=4
+
+[Device]
+Key=A5065FUV_R5
+SerialNumber=A5065FUV
+LastUpdated=2025-10-13 11:50:09
+Intensities=0,0,0,0,0,0,0,0
+CheckboxStates=False,False,False,False,False,False,False,False
+Remark=5
+

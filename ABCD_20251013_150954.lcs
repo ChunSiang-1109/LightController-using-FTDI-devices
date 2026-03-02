@@ -1,0 +1,46 @@
+# Light Controller Settings Export
+# Export Date: 2025-10-13 15:10:06
+# Device Serial: A5065FUV
+# Project Name: ABCD
+# Recipes: R1, R2, R3, R4, R5
+
+[Device]
+Key=A5065FUV_R1
+SerialNumber=A5065FUV
+LastUpdated=2025-10-13 15:09:26
+Intensities=0,0,0,1,0,0,0,0
+CheckboxStates=False,False,False,True,False,False,False,False
+Remark=ACS1CSAC
+
+[Device]
+Key=A5065FUV_R2
+SerialNumber=A5065FUV
+LastUpdated=2025-10-13 15:09:30
+Intensities=0,0,1,0,0,0,0,0
+CheckboxStates=False,False,True,False,False,False,False,False
+Remark=SCAC12
+
+[Device]
+Key=A5065FUV_R3
+SerialNumber=A5065FUV
+LastUpdated=2025-10-13 15:09:38
+Intensities=0,1,0,0,0,0,0,0
+CheckboxStates=False,True,False,False,False,False,False,False
+Remark=CSAC21CCSAC
+
+[Device]
+Key=A5065FUV_R4
+SerialNumber=A5065FUV
+LastUpdated=2025-10-13 15:09:46
+Intensities=1,0,0,0,0,0,0,0
+CheckboxStates=True,False,False,False,False,False,False,False
+Remark=1221C
+
+[Device]
+Key=A5065FUV_R5
+SerialNumber=A5065FUV
+LastUpdated=2025-10-13 15:09:51
+Intensities=0,0,0,1,1,1,0,0
+CheckboxStates=False,False,False,True,True,True,False,False
+Remark=C12DD21F
+

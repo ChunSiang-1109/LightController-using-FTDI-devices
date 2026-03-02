@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Light Controller", "Light Controller.csproj", "{5AB1D3FE-2C8C-477A-8439-D66742742AC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AB1D3FE-2C8C-477A-8439-D66742742AC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AB1D3FE-2C8C-477A-8439-D66742742AC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AB1D3FE-2C8C-477A-8439-D66742742AC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AB1D3FE-2C8C-477A-8439-D66742742AC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A35F487-D19D-4E4E-8D6B-093E1F6B5B86}
+	EndGlobalSection
+EndGlobal
